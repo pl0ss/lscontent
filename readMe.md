@@ -4,7 +4,7 @@
 
 ## Ausführung
 
-- lscontent.py [optional Path, anonsten current path]
+- python3 lscontent.py [optional Path, anonsten current path]
 
 ## Output
 
@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
 ## Ausführung
 
-- lscontent.py [optional Path, anonsten current path]
+- python3 lscontent.py [optional Path, anonsten current path]
 
 ## Output
 
