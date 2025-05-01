@@ -6,6 +6,11 @@
 
 - python3 lscontent.py [optional Path, anonsten current path]
 
+## Global Ausführbar
+
+- lscontent nach /usr/local/bin/lscontent verschieben
+- chmod +x /usr/local/bin/lscontent
+
 ## Output
 
 ```
